@@ -1,0 +1,2 @@
+dist/* text -diff
+dist/* linguist-vendored
